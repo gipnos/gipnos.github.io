@@ -1,7 +1,7 @@
 User-Agent: *
 Disallow: /www.php
 Disallow: /img_v/mp4-public/
-Host: classical-hypnosis.io.ua
-Sitemap: https://classical-hypnosis.io.ua/sitemap.xml
+Host: gipnos.github.io
+Sitemap: https://gipnos.github.io/sitemap.xml
 
 
