@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow:
-Host: gipnos.github.io
-Sitemap: https://gipnos.github.io/sitemap.xml
