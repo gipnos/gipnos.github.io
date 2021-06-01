@@ -1,13 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url>
-<loc>https://gipnos.github.io/
-<xhtml:link rel="alternate" href="https://gipnos.github.io/" hreflang="ru-UA">
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://gipnos.github.io/</loc>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
+<url>
+<loc>https://gipnos.github.io/404.html</loc>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
 </urlset>
-
