@@ -1,7 +1,5 @@
-User-Agent: *
-Disallow: /www.php
-Disallow: /img_v/mp4-public/
+User-agent: *
+Allow: /
+Disallow:
 Host: gipnos.github.io
 Sitemap: https://gipnos.github.io/sitemap.xml
-
-
